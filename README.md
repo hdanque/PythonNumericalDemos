@@ -1,10 +1,41 @@
-<p>
+<h1 align="center"<p>
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
-</p>
+</p></h1>
 
-# PythonNumericalDemos
+<h1 align="center">PythonNumericalDemos: Educational Data Science Python Demonstrations Repository (0.0.1)</h1>
 
-A collection of Python demos for spatial data analytics, geostatistics and machine learning methods.
+<h3 align="center">Well documented Python workflows to help you over the intellectual hurdles of data science!</h3>
+
+*To support my students in my **Data Analytics and Geostatistics**, **Spatial Data Analytics** and **Machine Learning** courses and anyone else learning data analytics and machine learning, I have developed a set of well-documented Python workflows. When students struggle with a concept I make and share a new well-documented so they can try out and repeat all the examples from my lectures to learn immediately how to apply the models or theoretical concepts!* 
+
+### Michael Pyrcz, Professor, The University of Texas at Austin, Data Analytics, Geostatistics and Machine Learning 
+#### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
+
+***
+
+### Cite As:
+
+Pyrcz, Michael J. (2021). PythonNumericalDemos: Educational Data Science Python Demonstrations Repository (0.0.1). Zenodo. https://doi.org/10.5281/zenodo.5564966
+
+[![DOI](https://zenodo.org/badge/106843586.svg)](https://zenodo.org/doi/10.5281/zenodo.5564966)
+
+***
+
+#### Setup
+
+A minimum environment includes:
+
+* Python 3.7.10 - due to the depdendency of GeostatsPy on the Numba package for code acceleration
+* MatPlotLib - plotting
+* NumPy - gridded data and array math
+* Pandas - tabulated data
+* SciPy - statistics module
+* ipywidgets - for plot interactivity
+* [GeostatsPy](https://pypi.org/project/geostatspy/) - geostatistical algorithms and functions (Pyrcz et al., 2021)
+
+The required datasets are available in the [GeoDataSets](https://github.com/GeostatsGuy/GeoDataSets) repository and linked in the workflows.
+
+#### Repository Summary
 
 I use these demonstrations for:
 
@@ -40,9 +71,9 @@ While I have more than 20 years experience coding in FORTRAN, C++ and VBA, I jus
 
 Alright, that is enough of my ranting. Especially, since I haven't even introduced myself yet!
 
-#### The Author:
+#### The Repository Author:
 
-### Michael Pyrcz, Associate Professor, University of Texas at Austin 
+### Michael Pyrcz, Professor, The University of Texas at Austin 
 *Novel Data Analytics, Geostatistics and Machine Learning Subsurface Solutions*
 
 With over 17 years of experience in subsurface consulting, research and development, Michael has returned to academia driven by his passion for teaching and enthusiasm for enhancing engineers' and geoscientists' impact in subsurface resource development. 
@@ -65,6 +96,6 @@ I'm always happy to discuss,
 
 *Michael*
 
-Michael Pyrcz, Ph.D., P.Eng. Associate Professor The Hildebrand Department of Petroleum and Geosystems Engineering, Bureau of Economic Geology, The Jackson School of Geosciences, The University of Texas at Austin
+Michael Pyrcz, Ph.D., P.Eng. Professor, Cockrell School of Engineering and The Jackson School of Geosciences, The University of Texas at Austin
 
 #### More Resources Available at: [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
